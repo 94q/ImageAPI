@@ -10,5 +10,4 @@ This GitHub repo will allow you to host AlexFlipnote once again!
 
 ### Credits
 - https://github.com/AlexFlipnote  
-- Other people who worked on AlexFlipnote API : 5mf 
 - my change(s) : fixed some errors and changed some stuff
